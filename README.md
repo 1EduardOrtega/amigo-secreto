@@ -22,7 +22,7 @@ Este proyecto consiste en una página web sencilla desarrollada en HTML, donde l
 
 2. Navega al directorio del proyecto
 
-3. Abre el archivo index.html en tu navegador favorito
+3. Abre el archivo index.html en tu navegador
 
 ## Uso
 
@@ -33,3 +33,20 @@ Este proyecto consiste en una página web sencilla desarrollada en HTML, donde l
 3. Añadidos todos los nombres deseados, Haz clic en sortear amigo.
 
 4. Si se desea un nuevo sorteo, solo debe añadir los nombres deseados.
+
+## Contribuciones
+
+Las contribuciones son bienvenidas, si deseas mejorar el proyecto por favor toma en cuenta los siguientes pasos:
+
+1.	Haz un fork de este repositorio.
+   
+2.	Crea una rama para tu nueva funcionalidad:
+   
+   git checkout -b nueva-funcionalidad
+
+3.	Realiza tus cambios y haz un commit
+   
+   git commit -m 'Añadir nueva funcionalidad'
+   
+4.	Envía un pull request.
+
